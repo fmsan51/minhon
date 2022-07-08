@@ -4,6 +4,9 @@
 # minhon
 
 <!-- badges: start -->
+
+[![CRAN
+status](https://www.r-pkg.org/badges/version/minhon)](https://CRAN.R-project.org/package=minhon)
 <!-- badges: end -->
 
 R package to translate text(s) with
