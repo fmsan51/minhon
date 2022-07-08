@@ -17,6 +17,7 @@ R package to translate text(s) with
 You can install the development version of minhon like so:
 
 ``` r
+install.packages("devtools")
 devtools::install_github("fmsan51/minhon")
 ```
 

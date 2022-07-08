@@ -26,6 +26,7 @@ R package to translate text(s) with [TexTra](https://mt-auto-minhon-mlt.ucri.jgn
 You can install the development version of minhon like so:
 
 ``` r
+install.packages("devtools")
 devtools::install_github("fmsan51/minhon")
 ```
 
