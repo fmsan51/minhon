@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-Translate text(s) with
+R package to translate text(s) with
 [TexTra](https://mt-auto-minhon-mlt.ucri.jgn-x.jp/) WebAPI.
 
 ## Installation
